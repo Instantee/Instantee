@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandra.
 - 👀 I’m interested in photography, music, games (multiplayer), books (guides), serials, draw, bike riding.
-- 🌱 I’m currently learning HTML, CSS, PHP.
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 📫 How to reach me: krawczyk_sandra@wp.pl
 
 <!---
